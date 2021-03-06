@@ -1,0 +1,1 @@
+This is my simple personal project to scrape a website and get the data for personal use.
