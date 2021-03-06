@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
-driver.get('https://santara.co.id/list-bisnis')
+driver.get('https://____.co.id/list-bisnis')
 driver.maximize_window()
 time.sleep(10)
 
